@@ -1,0 +1,7 @@
+for: funcion que se utiliza para ejecutar un bloque de codigo en "saltos", que tiene como caracteristica principal ejecutar un "salto" tantas veces como se le indique, normalmente bajo alguna condición.
+
+&& : simbologia que significa "y". Se usa para encadenar dos o mas condiciones que se quieran comprobar a la misma vez. Normalmente al cumplirse TODAS las instancias se comprueba la condicion.
+
+|| : simbologia que significa "o". Se usa para encadenar dos o mas condiciones que se quieran comprobar a la misma vez. Normalmente al cumplirse ALGUNA de las instancias se comprueba la condicion.
+
+! : simbologia que significa "distinto". Se usa para aclarar en el codigo que lo que se busca es lo contrario de lo que se encuentra a la derecha del simbolo.
