@@ -244,7 +244,7 @@ function continueStatement(numero) {
         continue;
         
       }
-      numero += 2;
+      numero += 2;  
       arrayNuevo.push(numero);
     }return arrayNuevo;
 }
